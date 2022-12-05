@@ -1,2 +1,2 @@
 # container-library-jql
-jql in a container
+[jql](https://github.com/yamafaktory/jql) in a container
