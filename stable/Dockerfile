@@ -1,5 +1,5 @@
-ARG VERSION="jql-v7.0.2"
-ARG REVISION="eebdfd11b184d42fb149e8a8d5c039d095a525d3"
+ARG VERSION="jql-v7.0.3"
+ARG REVISION="780e452efd92017e5f692b055b10550e8d5f5233"
 
 FROM ghcr.io/westonsteimel/rust-static-builder:stable as builder
 
